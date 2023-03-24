@@ -3,3 +3,8 @@
 
 #### code example
 System.out.println("Hello World");
+
+#### task list 
+- [ ] turn on github page
+- [ ] outline portfolio
+- [ ] introduce myself to the world
